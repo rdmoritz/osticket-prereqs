@@ -26,6 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <ul>Create a Linux (Ubuntu) VM</ul>
   <ul>While creating the VM, select the previously created Resource Group and Vnet</ul>
   <ul>Observe Your Virtual Network within Network Watcher</ul>
+  </li>
 
 - Item 2
 - Item 3
