@@ -17,7 +17,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Part 1 <b>Create Resources in Azure</b>
+<li>
+  <ul>Create a Resource Group</ul>
+  <ul>Create a Windows 10 Virtual Machine (VM)</ul>
+  <ul>While creating the VM, select the previously created Resource Group</ul>
+  <ul>While creating the VM, allow it to create a new Virtual Network (Vnet) and Subnet</ul>
+  <ul>Create a Linux (Ubuntu) VM</ul>
+  <ul>While creating the VM, select the previously created Resource Group and Vnet</ul>
+  <ul>Observe Your Virtual Network within Network Watcher</ul>
+
 - Item 2
 - Item 3
 - Item 4
